@@ -1,0 +1,1 @@
+{"1":{"name":"knife","weight":1,"id":1,"someList":[]},"2":{"name":"potato","weight":2,"id":2,"health":20,"healing":5,"duration":3},"3":{"name":"tomato","weight":4,"id":3,"stamina":20,"health":10,"healing":2,"duration":4}}
